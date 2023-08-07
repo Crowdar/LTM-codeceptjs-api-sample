@@ -4,7 +4,6 @@ Feature('Test Manager sections');
 
 function navigate(I, baseUrl, container) {
     I.amOnPage(baseUrl);
-    I.maximizeWindow();
     I.seeElement(container);
 }
 

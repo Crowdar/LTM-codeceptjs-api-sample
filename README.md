@@ -13,7 +13,7 @@ $ git clone link.git && cd "$(basename "$_" .git)"
 
 ## Run Tests
 ```bash
-$ npm codeceptjs run --steps
+$ npx codeceptjs run --steps
 ```
 
 ## Features Builder
