@@ -8,7 +8,7 @@
 # Getting Started
 
 ```bash
-$ git clone link.git && cd "$(basename "$_" .git)"
+$ git clone https://gitlab.crowdaronline.com/lippia/products/samples/codeceptjs-sample.git && cd "$(basename "$_" .git)"
 ```
 
 ## Run Tests
