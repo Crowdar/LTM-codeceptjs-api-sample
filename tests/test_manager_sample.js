@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-Feature('login');
+Feature('Test Manager sections');
 
 function navigate(I, baseUrl, container) {
     I.amOnPage(baseUrl);
