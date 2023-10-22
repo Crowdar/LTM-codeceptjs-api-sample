@@ -12,11 +12,13 @@ $ git clone https://gitlab.crowdaronline.com/lippia/products/samples/codeceptjs-
 ```
 
 ## Run Tests
+
 ```bash
 $ npx codeceptjs run --steps
 ```
 
 ## Features Builder
+
 ```bash
 $ npx codeceptjs gt
 ```
